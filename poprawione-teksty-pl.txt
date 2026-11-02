@@ -1,0 +1,109 @@
+================================================================================
+ZESTAWIENIE POPRAWIONYCH TEKSTÓW I KOREKT FONETYCZNYCH DLA LEKTORA JARVIS (TTS)
+Pakiet polskich komunikatów głosowych Asterisk PBX
+================================================================================
+
+Poniższa lista zawiera frazy, które zostały zmodyfikowane w celu uzyskania naturalnego,
+płynnego i profesjonalnego brzmienia w języku polskim (eliminacja sztucznych, dosłownych
+tłumaczeń z języka angielskiego oraz korekta fonetyki syntezatora).
+
+--------------------------------------------------------------------------------
+1. POKOJE KONFERENCYJNE (ConfBridge / MeetMe)
+--------------------------------------------------------------------------------
+
+* conf-onlyperson
+  - Stare: "Jesteś jedyną osobą w tej konferencji."
+  - Nowe:  "Dołączyłeś do pokoju jako pierwszy. Za chwilę rozpocznie się połączenie."
+
+* conf-getpin
+  - Stare: "Wprowadź kod PIN konferencji."
+  - Nowe:  "Wprowadź kod pin i zatwierdź krzyżykiem."
+
+* conf-invalidpin
+  - Stare: "Nieprawidłowy kod PIN dla tej konferencji."
+  - Nowe:  "Podany kod pin jest nieprawidłowy. Spróbuj ponownie."
+
+* conf-waitforleader
+  - Stare: "Konferencja rozpocznie się, gdy dołączy lider."
+  - Nowe:  "Spotkanie rozpocznie się, gdy dołączy moderator."
+
+* conf-leaderhasleft
+  - Stare: "Lider opuścił konferencję."
+  - Nowe:  "Moderator opuścił pokój konferencyjny."
+
+* conf-placeintoconf
+  - Stare: "Zostaniesz teraz dołączony do konferencji."
+  - Nowe:  "Łączę z pokojem konferencyjnym."
+
+* conf-kicked
+  - Stare: "Zostałeś usunięty z tej konferencji."
+  - Nowe:  "Zostałeś odłączony od konferencji."
+
+* conf-onlyone
+  - Stare: "Obecnie w konferencji jest jeszcze jeden uczestnik."
+  - Nowe:  "W pokoju konferencyjnym znajduje się jeszcze jedna osoba."
+
+* conf-thereare
+  - Stare: "Obecnie w konferencji jest"
+  - Nowe:  "W pokoju jest obecnie"
+
+* conf-otherinparty
+  - Stare: "innych uczestników konferencji."
+  - Nowe:  "innych uczestników."
+
+* confbridge-begin-leader / confbridge-begin-glorious-a / b / c
+  - Stare: "Konferencja rozpocznie się, gdy dołączy nasz wspaniały lider."
+  - Nowe:  "Konferencja rozpocznie się, gdy dołączy moderator."
+
+
+--------------------------------------------------------------------------------
+2. KOLEJKI POŁĄCZEŃ (Call Queues / ACD)
+--------------------------------------------------------------------------------
+
+* queue-youarenext
+  - Stare: "Twoje połączenie jest pierwsze w kolejce. Zostanie odebrane przez najbliższego dostępnego konsultanta."
+  - Nowe:  "Jesteś pierwszy w kolejce. Twoje połączenie zostanie za chwilę odebrane."
+
+* queue-thereare
+  - Stare: "Jesteś obecnie rozmówcą numer"
+  - Nowe:  "Przed Tobą oczekuje"
+
+* queue-callswaiting
+  - Stare: "Oczekiwanie na rozmowę z konsultantem."
+  - Nowe:  "osób w kolejce."
+
+
+--------------------------------------------------------------------------------
+3. POCZTA GŁOSOWA I SYSTEM (Voicemail / Core)
+--------------------------------------------------------------------------------
+
+* vm-nobodyavail
+  - Stare: "W tej chwili nikt nie może odebrać Twojego połączenia."
+  - Nowe:  "Niestety wszyscy nasi konsultanci są obecnie zajęci."
+
+* vm-theperson
+  - Stare: "Osoba pod numerem wewnętrznym"
+  - Nowe:  "Abonent o numerze"
+
+
+--------------------------------------------------------------------------------
+4. REGUŁY FONETYCZNE DLA SYNTEZATORA PIPER TTS
+--------------------------------------------------------------------------------
+Wyeliminowano literowanie akronimów i skrótów przez silnik TTS (np. czytanie P-I-N
+jako "pe-i-en"):
+
+* PIN       -> pin (wymawiane naturalnie jednym słowem jako "pin")
+* PIN-u     -> pinu
+* PIN-em    -> pinem
+* PIN-ie    -> pinie
+* ID        -> identyfikator
+* IVR       -> menu głosowe
+* PBX       -> centrala telefoniczna
+* IP        -> aj-pi
+* DTMF      -> de-te-em-ef
+* VM        -> poczta głosowa
+* SIP       -> sip
+* IAX       -> i-aks
+* USB       -> u-es-be
+* DAHDI     -> dahdi
+* MGCP      -> em-dżi-si-pi

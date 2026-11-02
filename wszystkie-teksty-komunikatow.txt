@@ -1,0 +1,727 @@
+================================================================================
+KOMPLETNA LISTA POLSKICH KOMUNIKATÓW GŁOSOWYCH DLA ASTERISK PBX (GŁOS JARVIS)
+Liczba fraz: 730
+Format: [nazwa_pliku_bez_rozszerzenia]: [tekst czytany przez lektora]
+================================================================================
+
+; Core Asterisk Sounds in Polish (Polski)
+; Generated using Piper TTS (pl_PL-mc_speech-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 716
+;
+a-m: rano
+activated: Aktywowano.
+added: Dodano.
+agent-alreadyon: Ten agent jest już zalogowany. Wprowadź numer agenta i naciśnij krzyżyk.
+agent-incorrect: Nieprawidłowe logowanie. Wprowadź numer agenta i naciśnij krzyżyk.
+agent-loggedoff: Agent wylogowany.
+agent-login: Logowanie agenta.
+agent-loginok: Agent zalogowany.
+agent-logoff: Wylogowanie agenta.
+agent-newlocation: Wprowadź nowy numer wewnętrzny i naciśnij krzyżyk.
+agent-pass: Wprowadź hasło i naciśnij krzyżyk.
+agent-user: Logowanie agenta. Wprowadź numer agenta i naciśnij krzyżyk.
+all-circuits-busy-now: Wszystkie linie są obecnie zajęte.
+areminder-1c-2n: Naciśnij jeden, aby potwierdzić, lub dwa, aby anulować.
+areminder-cancel: Naciśnij dwa, aby anulować.
+areminder-cancelled: Twoja rezerwacja została anulowana.
+areminder-confirm: Naciśnij jeden, aby potwierdzić.
+areminder-confirmed: Twoja rezerwacja została potwierdzona. Dziękujemy.
+areminder-for: Twoja rezerwacja jest na
+areminder-greeting: Dzień dobry. Dzwonimy w sprawie przypomnienia o rezerwacji.
+areminder-greeting2: Witamy. Dzwonimy w sprawie przypomnienia o nadchodzącej rezerwacji.
+areminder-instructions: Naciśnij jeden, aby potwierdzić, dwa, aby anulować, lub trzy, aby zmienić termin.
+areminder-reschedule: Naciśnij trzy, aby zmienić termin.
+areminder-reschedule-callback: Oddzwonimy do Ciebie wkrótce, aby ustalić nowy termin.
+areminder-summary: Podsumowanie rezerwacji.
+areminder-summary-instructions: Naciśnij jeden, aby usłyszeć szczegóły rezerwacji ponownie, lub krzyżyk, aby zakończyć.
+areminder-summary2: Podsumowanie Twojej rezerwacji.
+areminder-transfer: Przekazujemy połączenie do recepcji.
+astcc-followed-by-pound: i naciśnij krzyżyk.
+astcc-followed-by-the-pound-key: i naciśnij krzyżyk.
+at: o
+at-tone-time-exactly: Po sygnale dokładny czas to:
+auth-incorrect: Nieprawidłowe hasło. Wprowadź hasło i naciśnij krzyżyk.
+auth-thankyou: Dziękujemy.
+call-forwarding: Przekazywanie połączeń.
+call-fwd-no-ans: Przekazywanie połączeń przy braku odpowiedzi.
+call-fwd-on-busy: Przekazywanie połączeń w przypadku zajętości.
+call-fwd-unconditional: Bezwarunkowe przekazywanie połączeń.
+call-waiting: Oczekujące połączenie.
+calling: Wybieram numer.
+cancelled: Anulowano.
+cannot-complete-as-dialed: Nie można zrealizować połączenia z wybranym numerem.
+cdir-matching-entries-continue: pasujące wpisy. Aby kontynuować, naciśnij dowolny klawisz.
+cdir-matching-entries-or-pound: pasujące wpisy. Naciśnij krzyżyk, aby zakończyć.
+cdir-please-enter-first-three: Proszę wprowadzić pierwsze trzy litery nazwiska osoby, do której dzwonisz.
+cdir-sorry-no-entries: Przepraszamy, nie znaleziono żadnych pasujących wpisów.
+cdir-there-are: Znaleziono
+cdir-transferring-further-assistance: Przekazujemy połączenie do dalszej obsługi.
+cdir-welcome: Witamy w katalogu firmowym.
+check-number-dial-again: Sprawdź numer i wybierz ponownie.
+conf-adminmenu: Naciśnij jeden, aby wyciszyć lub włączyć swój mikrofon, dwa, aby zablokować lub odblokować konferencję, trzy, aby usunąć ostatniego uczestnika, cztery lub sześć, aby zmniejszyć lub zwiększyć głośność konferencji, siedem lub dziewięć, aby zmniejszyć lub zwiększyć głośność, lub osiem, aby wyjść.
+conf-adminmenu-162: Naciśnij jeden, aby wyciszyć lub włączyć swój mikrofon, dwa, aby zablokować lub odblokować konferencję, trzy, aby usunąć ostatniego uczestnika, cztery lub sześć, aby zmienić głośność konferencji, pięć, aby przedłużyć konferencję, siedem lub dziewięć, aby zmienić swoją głośność, lub osiem, aby wyjść.
+conf-adminmenu-18: Naciśnij jeden, aby wyciszyć lub włączyć swój mikrofon, dwa, aby zablokować lub odblokować konferencję, trzy, aby usunąć ostatniego uczestnika, cztery lub sześć, aby zmienić głośność konferencji, pięć, aby przedłużyć konferencję, siedem lub dziewięć, aby zmienić swoją głośność, lub osiem, aby uzyskać więcej opcji.
+conf-adminmenu-menu8: Naciśnij jeden, aby wyświetlić listę uczestników konferencji, dwa, aby usunąć wszystkich nieadministratorów, trzy, aby wyciszyć lub włączyć mikrofon wszystkich nieadministratorów, cztery, aby nagrać konferencję, lub osiem, aby wyjść z menu i wrócić do konferencji.
+conf-enteringno: Dołączasz do konferencji o numerze
+conf-errormenu: Nieprawidłowy wybór.
+conf-extended: Konferencja została przedłużona.
+conf-full: Ta konferencja jest pełna.
+conf-getchannel: Wprowadź numer kanału i naciśnij krzyżyk.
+conf-getconfno: Wprowadź numer konferencji i naciśnij krzyżyk.
+conf-getpin: Wprowadź kod pin i zatwierdź krzyżykiem.
+conf-hasjoin: dołączył do konferencji.
+conf-hasleft: opuścił konferencję.
+conf-invalid: To nie jest prawidłowy numer konferencji. Spróbuj ponownie.
+conf-invalidpin: Podany kod pin jest nieprawidłowy. Spróbuj ponownie.
+conf-kicked: Zostałeś odłączony od konferencji.
+conf-leaderhasleft: Moderator opuścił pokój konferencyjny.
+conf-locked: Ta konferencja jest zablokowana.
+conf-lockednow: Konferencja została zablokowana.
+conf-muted: Twój mikrofon jest wyciszony.
+conf-noempty: Obecnie nie ma żadnych pustych konferencji.
+conf-nonextended: Nie można przedłużyć konferencji.
+conf-now-muted: Konferencja jest wyciszona.
+conf-now-recording: Konferencja jest nagrywana.
+conf-now-unmuted: Wyciszenie konferencji zostało wyłączone.
+conf-onlyone: W pokoju konferencyjnym znajduje się jeszcze jedna osoba.
+conf-onlyperson: Dołączyłeś do pokoju jako pierwszy. Za chwilę rozpocznie się połączenie.
+conf-otherinparty: innych uczestników.
+conf-placeintoconf: Łączę z pokojem konferencyjnym.
+conf-roll-callcomplete: Odtworzenie listy uczestników zostało zakończone.
+conf-thereare: W pokoju jest obecnie
+conf-unlockednow: Konferencja została odblokowana.
+conf-unmuted: Twój mikrofon został włączony.
+conf-usermenu: Naciśnij jeden, aby wyciszyć lub włączyć swój mikrofon, cztery lub sześć, aby zmienić głośność konferencji, siedem lub dziewięć, aby zmienić swoją głośność, lub osiem, aby wyjść.
+conf-usermenu-162: Naciśnij jeden, aby wyciszyć lub włączyć swój mikrofon, cztery lub sześć, aby zmienić głośność konferencji, pięć, aby przedłużyć konferencję, siedem lub dziewięć, aby zmienić swoją głośność, lub osiem, aby wyjść.
+conf-userswilljoin: uczestników dołączy do konferencji.
+conf-userwilljoin: uczestnik dołączy do konferencji.
+conf-waitforleader: Spotkanie rozpocznie się, gdy dołączy moderator.
+confbridge-begin-glorious-a: Konferencja rozpocznie się, gdy dołączy moderator.
+confbridge-begin-glorious-b: Konferencja rozpocznie się, gdy dołączy moderator.
+confbridge-begin-glorious-c: Konferencja rozpocznie się, gdy dołączy moderator.
+confbridge-begin-leader: Konferencja rozpocznie się, gdy dołączy moderator.
+confbridge-conf-begin: Konferencja rozpoczyna się.
+confbridge-conf-end: Konferencja zakończona.
+confbridge-dec-list-vol-in: Aby zmniejszyć głośność innych uczestników...
+confbridge-dec-list-vol-out: ...aby zmniejszyć głośność innych uczestników.
+confbridge-dec-talk-vol-in: Aby zmniejszyć głośność swojego głosu dla innych...
+confbridge-dec-talk-vol-out: ...aby zmniejszyć głośność swojego głosu dla innych.
+confbridge-has-joined: ...dołączył do konferencji.
+confbridge-has-left: ...opuścił konferencję.
+confbridge-inc-list-vol-in: Aby zwiększyć głośność innych uczestników...
+confbridge-inc-list-vol-out: ...aby zwiększyć głośność innych uczestników.
+confbridge-inc-talk-vol-in: Aby zwiększyć głośność swojego głosu dla innych...
+confbridge-inc-talk-vol-out: ...aby zwiększyć głośność swojego głosu dla innych.
+confbridge-invalid: Wybrałeś nieprawidłową opcję.
+confbridge-join: Dołączenie.
+confbridge-leave: Opuszczenie.
+confbridge-leave-in: Aby opuścić konferencję...
+confbridge-leave-out: ...aby opuścić konferencję.
+confbridge-lock-extended: ...aby zablokować lub odblokować konferencję. Gdy konferencja jest zablokowana, mogą do niej dołączyć tylko administratorzy.
+confbridge-lock-in: Aby zablokować lub odblokować konferencję...
+confbridge-lock-no-join: Konferencja jest obecnie zablokowana, nie można do niej dołączyć.
+confbridge-lock-out: ...aby zablokować lub odblokować konferencję.
+confbridge-locked: Konferencja została zablokowana.
+confbridge-menu-exit-in: Aby wyjść z menu...
+confbridge-menu-exit-out: ...aby wyjść z menu.
+confbridge-mute-extended: ...aby wyciszyć lub włączyć swój mikrofon. Gdy mikrofon jest wyciszony, inni uczestnicy nie usłyszą Twojego głosu, ale Ty wciąż będziesz słyszeć innych.
+confbridge-mute-in: Aby wyciszyć lub włączyć swój mikrofon...
+confbridge-mute-out: ...aby wyciszyć lub włączyć swój mikrofon.
+confbridge-muted: Twój mikrofon jest wyciszony.
+confbridge-only-one: Obecnie w konferencji jest jeszcze jeden uczestnik.
+confbridge-only-participant: Jesteś obecnie jedynym uczestnikiem konferencji.
+confbridge-participants: ...uczestników konferencji.
+confbridge-pin: Wprowadź swój osobisty kod identyfikacyjny i naciśnij krzyżyk.
+confbridge-pin-bad: Wprowadziłeś zbyt wiele nieprawidłowych kodów identyfikacyjnych.
+confbridge-remove-last-in: Aby usunąć ostatniego uczestnika, który dołączył do konferencji...
+confbridge-remove-last-out: ...aby usunąć ostatniego uczestnika, który dołączył do konferencji.
+confbridge-removed: Zostałeś usunięty z konferencji.
+confbridge-rest-list-vol-in: Aby przywrócić domyślny poziom głośności konferencji...
+confbridge-rest-list-vol-out: ...aby przywrócić domyślny poziom głośności konferencji.
+confbridge-rest-talk-vol-in: Aby przywrócić domyślny poziom głośności swojego głosu...
+confbridge-rest-talk-vol-out: ...aby przywrócić domyślny poziom głośności swojego głosu.
+confbridge-there-are: Obecnie jest...
+confbridge-unlocked: Konferencja została odblokowana.
+confbridge-unmuted: Twój mikrofon nie jest już wyciszony.
+dash: myślnik
+de-activated: Dezaktywowano.
+demo-echodone: Test echa został zakończony.
+demo-echotest: Rozpoczynasz test echa. W tym trybie wszystko, co powiesz, zostanie powtórzone. Aby zakończyć test, rozłącz się lub naciśnij krzyżyk.
+dictate/both_help: Naciśnij gwiazdkę, aby wstrzymać. Naciśnij krzyżyk, aby wprowadzić nową nazwę pliku dyktanda.
+dictate/enter_filename: Wprowadź numeryczną nazwę pliku dyktanda i naciśnij krzyżyk lub naciśnij krzyżyk, aby wyjść.
+dictate/forhelp: Naciśnij zero, aby uzyskać pomoc.
+dictate/pause: pauza
+dictate/paused: wstrzymano
+dictate/play_help: Naciśnij jeden, aby przełączyć na tryb nagrywania. Naciśnij dwa, aby włączyć szybkie odtwarzanie. Naciśnij siedem, aby przewinąć do tyłu. Naciśnij osiem, aby przewinąć do przodu.
+dictate/playback: odtwarzanie
+dictate/playback_mode: tryb odtwarzania
+dictate/record: nagrywanie
+dictate/record_help: Naciśnij jeden, aby przełączyć na tryb odtwarzania. Naciśnij osiem, aby skrócić plik i zacząć od nowa.
+dictate/record_mode: tryb nagrywania
+dictate/truncating_audio: skracanie nagrania
+dictation-being-processed: Twoje dyktando jest przetwarzane.
+dictation-sent: Twoje dyktando zostało wysłane.
+digits/0: zero
+digits/1: jeden
+digits/1-a: pierwsza
+digits/10: dziesięć
+digits/1000: tysiąc
+digits/1000.2: tysiące
+digits/1000.5: tysięcy
+digits/1000000: milion
+digits/1000000.2: miliony
+digits/1000000.5: milionów
+digits/1000000000: miliard
+digits/1000000000.2: miliardy
+digits/1000000000.5: miliardów
+digits/100m: sto
+digits/10m: dziesięć
+digits/11: jedenaście
+digits/11m: jedenaście
+digits/12: dwanaście
+digits/12m: dwanaście
+digits/13: trzynaście
+digits/13m: trzynaście
+digits/14: czternaście
+digits/14m: czternaście
+digits/15: piętnaście
+digits/15m: piętnaście
+digits/16: szesnaście
+digits/16m: szesnaście
+digits/17: siedemnaście
+digits/17m: siedemnaście
+digits/18: osiemnaście
+digits/18m: osiemnaście
+digits/19: dziewiętnaście
+digits/19m: dziewiętnaście
+digits/1z: jedna
+digits/2: dwa
+digits/2-1m: dwa
+digits/2-2m: dwie
+digits/2-ie: drugie
+digits/20: dwadzieścia
+digits/200: dwieście
+digits/200m: dwieście
+digits/20m: dwadzieścia
+digits/2z: dwie
+digits/3: trzy
+digits/3-1m: trzy
+digits/3-2m: trzy
+digits/30: trzydzieści
+digits/300: trzysta
+digits/300m: trzysta
+digits/30m: trzydzieści
+digits/4: cztery
+digits/4-1m: cztery
+digits/4-2m: cztery
+digits/40: czterdzieści
+digits/400: czterysta
+digits/400m: czterysta
+digits/40m: czterdzieści
+digits/5: pięć
+digits/50: pięćdziesiąt
+digits/500: pięćset
+digits/500m: pięćset
+digits/50m: pięćdziesiąt
+digits/5m: pięć
+digits/6: sześć
+digits/60: sześćdziesiąt
+digits/600: sześćset
+digits/600m: sześćset
+digits/60m: sześćdziesiąt
+digits/6m: sześć
+digits/7: siedem
+digits/70: siedemdziesiąt
+digits/700: siedemset
+digits/700m: siedemset
+digits/70m: siedemdziesiąt
+digits/7m: siedem
+digits/8: osiem
+digits/80: osiemdziesiąt
+digits/800: osiemset
+digits/800m: osiemset
+digits/80m: osiemdziesiąt
+digits/8m: osiem
+digits/9: dziewięć
+digits/90: dziewięćdziesiąt
+digits/900: dziewięćset
+digits/900m: dziewięćset
+digits/90m: dziewięćdziesiąt
+digits/9m: dziewięć
+digits/a-m: rano
+digits/at: o
+digits/billion: miliard
+digits/day-0: niedziela
+digits/day-1: poniedziałek
+digits/day-2: wtorek
+digits/day-3: środa
+digits/day-4: czwartek
+digits/day-5: piątek
+digits/day-6: sobota
+digits/dollar: dolar
+digits/dollars: dolarów
+digits/h-1: pierwszy
+digits/h-10: dziesiąty
+digits/h-11: jedenasty
+digits/h-12: dwunasty
+digits/h-13: trzynasty
+digits/h-14: czternasty
+digits/h-15: piętnasty
+digits/h-16: szesnasty
+digits/h-17: siedemnasty
+digits/h-18: osiemnasty
+digits/h-19: dziewiętnasty
+digits/h-2: drugi
+digits/h-20: dwudziesty
+digits/h-3: trzeci
+digits/h-30: trzydziesty
+digits/h-4: czwarty
+digits/h-40: czterdziesty
+digits/h-5: piąty
+digits/h-50: pięćdziesiąty
+digits/h-6: szósty
+digits/h-60: sześćdziesiąty
+digits/h-7: siódmy
+digits/h-70: siedemdziesiąty
+digits/h-8: ósmy
+digits/h-80: osiemdziesiąty
+digits/h-9: dziewiąty
+digits/h-90: dziewięćdziesiąty
+digits/h-billion: miliardowy
+digits/h-hundred: setny
+digits/h-million: milionowy
+digits/h-thousand: tysięczny
+digits/hours: godzin
+digits/hundred: sto
+digits/million: milion
+digits/minus: minus
+digits/minutes: minut
+digits/mon-0: styczeń
+digits/mon-1: luty
+digits/mon-10: listopad
+digits/mon-11: grudzień
+digits/mon-2: marzec
+digits/mon-3: kwiecień
+digits/mon-4: maj
+digits/mon-5: czerwiec
+digits/mon-6: lipiec
+digits/mon-7: sierpień
+digits/mon-8: wrzesień
+digits/mon-9: październik
+digits/n-1: jeden
+digits/n-10: dziesięć
+digits/n-11: jedenaście
+digits/n-12: dwanaście
+digits/n-13: trzynaście
+digits/n-14: czternaście
+digits/n-15: piętnaście
+digits/n-16: szesnaście
+digits/n-17: siedemnaście
+digits/n-18: osiemnaście
+digits/n-19: dziewiętnaście
+digits/n-2: dwa
+digits/n-20: dwadzieścia
+digits/n-3: trzy
+digits/n-30: trzydzieści
+digits/n-4: cztery
+digits/n-40: czterdzieści
+digits/n-5: pięć
+digits/n-50: pięćdziesiąt
+digits/n-6: sześć
+digits/n-60: sześćdziesiąt
+digits/n-7: siedem
+digits/n-70: siedemdziesiąt
+digits/n-8: osiem
+digits/n-80: osiemdziesiąt
+digits/n-9: dziewięć
+digits/n-90: dziewięćdziesiąt
+digits/oclock: godzina
+digits/oh: zero
+digits/p-m: po południu
+digits/pound: krzyżyk
+digits/seconds: sekund
+digits/star: gwiazdka
+digits/thousand: tysiąc
+digits/today: dzisiaj
+digits/tomorrow: jutro
+digits/yesterday: wczoraj
+dir-first: litery imienia osoby, do której dzwonisz.
+dir-firstlast: litery imienia lub nazwiska osoby, do której dzwonisz.
+dir-instr: Jeśli to jest osoba, której szukasz, naciśnij jeden. W przeciwnym razie naciśnij gwiazdkę.
+dir-intro: Witamy w katalogu. Wprowadź pierwsze trzy litery nazwiska osoby, do której dzwonisz, używając klawiatury telefonu.
+dir-intro-fn: Witamy w katalogu. Wprowadź pierwsze trzy litery imienia osoby, do której dzwonisz, używając klawiatury telefonu.
+dir-last: litery nazwiska osoby, do której dzwonisz.
+dir-multi1: Naciśnij...
+dir-multi2: ...dla...
+dir-multi3: ...numer wewnętrzny...
+dir-multi9: Naciśnij dziewięć, aby uzyskać więcej wpisów.
+dir-nomatch: Brak wpisów pasujących do wyszukiwania.
+dir-nomore: Nie ma więcej pasujących wpisów w katalogu.
+dir-pls-enter: Wprowadź pierwsze...
+dir-usingkeypad: ...używając klawiatury telefonu.
+dir-welcome: Witamy w katalogu firmowym.
+disabled: Wyłączono.
+do-not-disturb: Nie przeszkadzać.
+dollar: dolar
+dollars: dolarów
+dot: kropka
+enabled: Włączono.
+enter-filename-short: Wprowadź krótką nazwę pliku.
+enter-num-blacklist: Wprowadź numer, który ma zostać dodany do czarnej listy.
+entr-num-rmv-blklist: Wprowadź numer, który ma zostać usunięty z czarnej listy.
+equals: równa się
+exclaimation-point: wykrzyknik
+exited-vm-will-be-transfered: Opuszczasz pocztę głosową. Połączenie zostanie przekazane.
+extension: Numer wewnętrzny.
+feature-not-avail-line: Ta funkcja nie jest dostępna na tej linii.
+featurecode: Kod funkcji.
+followme: Podążaj za mną.
+followme/call-from: połączenie przychodzące od
+followme/followme: Podążaj za mną.
+followme/no-recording: Masz połączenie przychodzące.
+followme/options: Naciśnij jeden, aby przyjąć połączenie, lub dwa, aby je odrzucić.
+followme/pls-hold-while-try: Proszę czekać. Próbuję zlokalizować osobę, do której dzwonisz.
+followme/sorry: Przepraszamy, nie udało się zlokalizować osoby, do której dzwonisz.
+followme/status: Osoba, do której dzwonisz, nie znajduje się przy biurku. Spróbuję ją zlokalizować.
+for: dla
+from-unknown-caller: Od nieznanego rozmówcy.
+goodbye: Do widzenia.
+hello: Witamy.
+hello-world: Witaj świecie.
+hours: godzin
+if-correct-press: Jeśli to jest poprawne, naciśnij...
+im-sorry: Przepraszamy.
+incoming-call-1-accept-2-decline: Połączenie przychodzące. Naciśnij jeden, aby przyjąć, lub dwa, aby odrzucić.
+incoming-call-no-longer-avail: Połączenie przychodzące nie jest już dostępne.
+info-about-last-call: Informacja o Twoim ostatnim połączeniu.
+intercom: Interkom.
+invalid: Przepraszamy, to nie jest prawidłowy numer wewnętrzny. Spróbuj ponownie.
+is: jest.
+is-in-use: jest używany.
+is-set-to: jest ustawiony na.
+letters/a: a
+letters/ascii123: lewy nawias klamrowy
+letters/ascii124: kreska pionowa
+letters/ascii125: prawy nawias klamrowy
+letters/ascii126: tylda
+letters/ascii34: cudzysłów
+letters/ascii36: znak dolara
+letters/ascii37: procent
+letters/ascii38: i komercyjne
+letters/ascii39: apostrof
+letters/ascii40: lewy nawias
+letters/ascii41: prawy nawias
+letters/ascii42: gwiazdka
+letters/ascii44: przecinek
+letters/ascii58: dwukropek
+letters/ascii59: średnik
+letters/ascii60: mniejsze niż
+letters/ascii62: większe niż
+letters/ascii63: znak zapytania
+letters/ascii91: lewy nawias kwadratowy
+letters/ascii92: ukośnik wsteczny
+letters/ascii93: prawy nawias kwadratowy
+letters/ascii94: daszek
+letters/ascii95: podkreślenie
+letters/ascii96: akcent słaby
+letters/asterisk: gwiazdka
+letters/at: małpa
+letters/b: be
+letters/c: ce
+letters/d: de
+letters/dash: myślnik
+letters/dollar: dolar
+letters/dollars: dolary
+letters/dot: kropka
+letters/e: e
+letters/equals: równa się
+letters/exclaimation-point: wykrzyknik
+letters/f: ef
+letters/g: gie
+letters/h: ha
+letters/i: i
+letters/j: jot
+letters/k: ka
+letters/l: el
+letters/m: em
+letters/n: en
+letters/o: o
+letters/p: pe
+letters/plus: plus
+letters/q: ku
+letters/r: er
+letters/s: es
+letters/slash: ukośnik
+letters/space: spacja
+letters/t: te
+letters/u: u
+letters/v: fau
+letters/w: wu
+letters/x: iks
+letters/y: igrek
+letters/z: zet
+letters/zed: zet
+line-busy-transfer-menu: Linia jest zajęta. Przekazujemy do menu.
+location: Lokalizacja.
+lowercase: małe litery
+minutes: minut
+no-valid-responce-pls-try-again: Brak prawidłowej odpowiedzi. Spróbuj ponownie.
+no-valid-responce-transfering: Brak prawidłowej odpowiedzi. Przekazujemy połączenie.
+num-was-successfully: Numer został pomyślnie...
+number: Numer.
+number-not-answering: Numer nie odpowiada.
+one-moment-please: Proszę chwilę poczekać.
+pbdirectory-first-three-letters-entry: Wprowadź pierwsze trzy litery imienia lub nazwiska kontaktu.
+pbdirectory-if-correct-press: Jeśli to poprawny kontakt, naciśnij...
+pbdirectory-if-incorrect-press: Jeśli to niepoprawny kontakt, naciśnij...
+pbdirectory-welcome-to-phonebook: Witamy w książce telefonicznej.
+pbx-invalid: Przepraszamy, to nie jest prawidłowy numer wewnętrzny. Spróbuj ponownie.
+pbx-invalidpark: Przepraszamy, na tym numerze nie ma zaparkowanego połączenia. Spróbuj ponownie.
+pbx-parkingfailed: Próba zaparkowania nieudana.
+pbx-transfer: Przekazywanie.
+phonetic/9_p: dziewięć
+phonetic/a_p: alfa
+phonetic/at: małpa
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/l_p2: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oscar
+phonetic/p_p: papa
+phonetic/q_p: quebec
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: victor
+phonetic/w_p: whiskey
+phonetic/x_p: x-ray
+phonetic/y_p: yankee
+phonetic/z_p: zulu
+please-enter-your-extension-then-press-pound: Wprowadź swój numer wewnętrzny i naciśnij krzyżyk.
+please-try-again: Spróbuj ponownie.
+please-try-call-later: Spróbuj zadzwonić później.
+plus: plus
+pm-invalid-option: Nieprawidłowa opcja. Spróbuj ponownie.
+pound: krzyżyk
+press-1: Naciśnij jeden.
+press-2: Naciśnij dwa.
+press-3: Naciśnij trzy.
+press-star: Naciśnij gwiazdkę.
+priv-callee-options: Naciśnij jeden, aby umożliwić bezpośrednie połączenie z tym rozmówcą teraz i w przyszłości. Naciśnij dwa, aby przekierować rozmówcę do poczty głosowej teraz i w przyszłości. Naciśnij trzy, aby przekierować rozmówcę do menu specjalnego. Naciśnij cztery, aby przekierować rozmówcę do menu „nie dzwoń”. Naciśnij pięć, aby zezwolić temu rozmówcy na bezpośrednie połączenia w przyszłości, ale tym razem przekierować go do poczty głosowej.
+priv-callpending: Mam oczekującego rozmówcę, który przedstawia się jako:
+priv-introsaved: Dziękujemy. Proszę czekać, próbuję połączyć z osobą, do której dzwonisz.
+priv-recordintro: Po sygnale podaj swoje imię i nazwisko.
+privacy-incorrect: Przepraszamy, ten numer nie jest prawidłowy.
+privacy-prompt: Wprowadź swój numer telefonu, zaczynając od numeru kierunkowego.
+privacy-thankyou: Dziękujemy.
+privacy-to-blacklist-last-caller: Ostatni rozmówca to...
+privacy-unident: Osoba, do której dzwonisz, nie przyjmuje połączeń od nieznanych rozmówców.
+queue-callswaiting: osób w kolejce.
+queue-holdtime: Szacowany czas oczekiwania to obecnie
+queue-less-than: mniej niż
+queue-minute: minuta
+queue-minutes: minut
+queue-periodic-announce: Wszyscy nasi konsultanci są obecnie zajęci. Prosimy pozostać na linii. Twoje połączenie zostanie odebrane przez najbliższego dostępnego konsultanta.
+queue-quantity1: Obecnie czeka więcej niż...
+queue-quantity2: ...rozmówców na połączenie z konsultantem.
+queue-reporthold: Czas oczekiwania.
+queue-seconds: sekund.
+queue-thankyou: Dziękujemy za cierpliwość.
+queue-thereare: Przed Tobą oczekuje
+queue-youarenext: Jesteś pierwszy w kolejce. Twoje połączenie zostanie za chwilę odebrane.
+removed: Usunięto.
+screen-callee-options: Masz następujące opcje. Naciśnij jeden, aby od razu połączyć się z rozmówcą. Naciśnij dwa, aby przekierować do poczty głosowej. Naciśnij trzy, aby przekierować rozmówcę do menu specjalnego. Naciśnij cztery, aby przekierować do menu „nie dzwoń”.
+seconds: sekund
+simul-call-limit-reached: Osiągnięto limit jednoczesnych połączeń.
+slash: ukośnik
+something-terribly-wrong: Coś jest nie tak.
+sorry-youre-having-problems: Przepraszamy za problemy.
+space: spacja
+speed-dial: Szybkie wybieranie.
+speed-dial-empty: Wybrana pozycja szybkiego wybierania jest pusta.
+speed-enterlocation: Wprowadź numer pozycji szybkiego wybierania.
+speed-enternumber: Wprowadź numer telefonu.
+spy-agent: Agent
+spy-console: Konsola
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Lokalny
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Wybrany numer jest niedostępny. Sprawdź numer i spróbuj ponownie.
+telephone-number: Numer telefonu.
+time: Czas.
+to-call-this-number: Aby zadzwonić pod ten numer.
+to-change: Aby zmienić.
+to-enter-a-diff: Aby wprowadzić inny.
+to-extension: Do numeru wewnętrznego.
+to-listen-to-it: Aby odsłuchać.
+to-rerecord-it: Aby nagrać ponownie.
+transfer: Proszę czekać, próbuję połączyć z numerem wewnętrznym.
+unidentified-no-callback: Numer nieznany lub zastrzeżony, nie można oddzwonić.
+uppercase: wielkie litery
+vm-Cust1: folder pięć
+vm-Cust2: folder sześć
+vm-Cust3: folder siedem
+vm-Cust4: folder osiem
+vm-Cust5: folder dziewięć
+vm-Family: rodzina
+vm-Friends: znajomi
+vm-INBOX: nowych
+vm-Old: stara
+vm-Urgent: pilna
+vm-Work: praca
+vm-advopts: Naciśnij trzy, aby uzyskać opcje zaawansowane.
+vm-and: i
+vm-calldiffnum: Naciśnij dwa, aby wprowadzić inny numer.
+vm-changeto: Do którego folderu przejść?
+vm-delete: Naciśnij siedem, aby usunąć tę wiadomość.
+vm-deleted: Wiadomość usunięta.
+vm-dialout: Proszę czekać, łączę.
+vm-duration: Ta wiadomość trwa...
+vm-enter-num-to-call: Wprowadź numer, pod który chcesz zadzwonić.
+vm-extension: numer wewnętrzny
+vm-first: pierwsza
+vm-for: dla
+vm-forward: Naciśnij jeden, aby wprowadzić numer wewnętrzny. Naciśnij dwa, aby skorzystać z katalogu.
+vm-forward-multiple: Naciśnij jeden, aby wysłać wiadomość, lub dwa, aby dodać kolejnego odbiorcę.
+vm-forwardoptions: Naciśnij jeden, aby dodać wstęp do wiadomości, lub dwa, aby przekazać wiadomość bez wstępu.
+vm-from: od
+vm-from-extension: wiadomość od numeru wewnętrznego
+vm-from-phonenumber: wiadomość od numeru telefonu
+vm-goodbye: Do widzenia.
+vm-helpexit: Naciśnij gwiazdkę, aby uzyskać pomoc, lub krzyżyk, aby zakończyć.
+vm-incorrect: Nieprawidłowe logowanie.
+vm-incorrect-mailbox: Nieprawidłowe logowanie. Skrzynka pocztowa?
+vm-instructions: Aby przejrzeć wiadomości, naciśnij jeden. Pocztę głosową możesz opuścić w dowolnej chwili, naciskając krzyżyk.
+vm-intro: Po sygnale zostaw wiadomość. Po zakończeniu rozłącz się lub naciśnij krzyżyk.
+vm-invalid-password: Hasło nie spełnia minimalnych wymagań tej skrzynki. Spróbuj ponownie.
+vm-invalidpassword: To nie jest prawidłowe hasło. Spróbuj ponownie.
+vm-isonphone: rozmawia przez telefon
+vm-isunavail: jest niedostępny
+vm-last: ostatnia
+vm-leavemsg: Naciśnij pięć, aby zostawić wiadomość.
+vm-login: Poczta głosowa. Skrzynka pocztowa?
+vm-mailboxfull: Przepraszamy, skrzynka odbiorcza nie może przyjąć więcej wiadomości.
+vm-marked-nonurgent: Status pilności został usunięty.
+vm-marked-urgent: Wiadomość oznaczona jako pilna.
+vm-message: wiadomość
+vm-messages: wiadomości
+vm-minute-t: minuta
+vm-minute-ta: minuty
+vm-minute-ty: minut
+vm-minutes: minut
+vm-mismatch: Wprowadzone hasła nie są zgodne. Spróbuj ponownie.
+vm-msgforwarded: Twoja wiadomość została pomyślnie przekazana.
+vm-msginstruct: Aby odsłuchać następną wiadomość, naciśnij sześć. Aby powtórzyć tę wiadomość, naciśnij pięć. Aby odsłuchać poprzednią wiadomość, naciśnij cztery. Aby usunąć lub przywrócić wiadomość, naciśnij zero. Aby zakończyć, naciśnij krzyżyk.
+vm-msgsaved: Twoja wiadomość została zapisana.
+vm-new-a: nowa
+vm-new-e: nowe
+vm-new-ych: nowych
+vm-newpassword: Wprowadź nowe hasło i naciśnij krzyżyk.
+vm-newuser: Witamy w poczcie głosowej. Najpierw przeprowadzę Cię przez krótką konfigurację.
+vm-next: Naciśnij sześć, aby odtworzyć następną wiadomość.
+vm-no: nie
+vm-nobodyavail: Niestety wszyscy nasi konsultanci są obecnie zajęci.
+vm-nobox: Nie możesz odpowiedzieć na tę wiadomość, ponieważ nadawca nie posiada skrzynki pocztowej.
+vm-nomore: Brak kolejnych wiadomości.
+vm-nonumber: Niestety nie wiem, kto wysłał tę wiadomość.
+vm-num-i-have: Numer, który posiadam to
+vm-old-a: stara
+vm-old-e: stare
+vm-old-ych: starych
+vm-onefor: Naciśnij jeden, aby
+vm-onefor-full: Naciśnij jeden, aby odsłuchać...
+vm-options: Naciśnij jeden, aby nagrać wiadomość o niedostępności. Naciśnij dwa, aby nagrać wiadomość o zajętości. Naciśnij trzy, aby nagrać swoje imię. Naciśnij cztery, aby nagrać tymczasowe powitanie. Naciśnij pięć, aby zmienić hasło. Naciśnij gwiazdkę, aby wrócić do menu głównego.
+vm-opts: Naciśnij dwa, aby zmienić folder. Naciśnij trzy, aby uzyskać opcje zaawansowane. Naciśnij zero, aby uzyskać opcje skrzynki.
+vm-opts-full: Naciśnij dwa, aby uzyskać dostęp do wiadomości w innych folderach. Naciśnij trzy, aby nagrać wiadomość dla innej skrzynki. Naciśnij zero, aby zarządzać powitaniami i hasłem.
+vm-passchanged: Twoje hasło zostało zmienione.
+vm-password: hasło
+vm-pls-try-again: Spróbuj ponownie.
+vm-press: naciśnij
+vm-prev: Naciśnij cztery, aby odsłuchać poprzednią wiadomość.
+vm-reachoper: Naciśnij zero, aby połączyć się z operatorem.
+vm-rec-busy: Po sygnale podaj wiadomość o zajętości i naciśnij krzyżyk.
+vm-rec-name: Po sygnale podaj swoje imię i naciśnij krzyżyk.
+vm-rec-temp: Po sygnale nagraj tymczasowe powitanie i naciśnij krzyżyk.
+vm-rec-unv: Po sygnale podaj wiadomość o niedostępności i naciśnij krzyżyk.
+vm-received: odebrano
+vm-record-prepend: Po sygnale nagraj wstęp do przekazywanej wiadomości. Po zakończeniu naciśnij krzyżyk.
+vm-reenterpassword: Wprowadź hasło ponownie i naciśnij krzyżyk.
+vm-repeat: Naciśnij pięć, aby powtórzyć bieżącą wiadomość.
+vm-review: Naciśnij jeden, aby zaakceptować nagranie. Naciśnij dwa, aby je odsłuchać. Naciśnij trzy, aby nagrać ponownie.
+vm-review-nonurgent: Naciśnij cztery, aby usunąć status pilności tej wiadomości.
+vm-review-urgent: Naciśnij cztery, aby oznaczyć tę wiadomość jako pilną.
+vm-saved: zapisano
+vm-savedto: zapisano w
+vm-savefolder: W którym folderze zapisać tę wiadomość?
+vm-savemessage: lub dziewięć, aby zapisać tę wiadomość
+vm-saveoper: Naciśnij jeden, aby zaakceptować nagranie. W przeciwnym razie pozostań na linii.
+vm-sorry: Przepraszamy, nie zrozumiałem Twojej odpowiedzi.
+vm-star-cancel: Naciśnij gwiazdkę, aby anulować.
+vm-starmain: Naciśnij gwiazdkę, aby wrócić do menu głównego.
+vm-tempgreetactive: Twoje tymczasowe powitanie jest obecnie aktywne.
+vm-tempgreeting: Naciśnij jeden, aby nagrać tymczasowe powitanie.
+vm-tempgreeting2: Naciśnij jeden, aby nagrać tymczasowe powitanie, lub dwa, aby je usunąć.
+vm-tempremoved: Twoje tymczasowe powitanie zostało usunięte.
+vm-then-pound: i naciśnij krzyżyk
+vm-theperson: Abonent o numerze
+vm-tmpexists: Istnieje tymczasowe powitanie, które zastępuje Twoje standardowe powitanie.
+vm-tocallback: Naciśnij dwa, aby zadzwonić do osoby, która wysłała tę wiadomość.
+vm-tocallnum: Naciśnij jeden, aby zadzwonić pod ten numer.
+vm-tocancel: lub krzyżyk, aby anulować
+vm-tocancelmsg: Naciśnij gwiazdkę, aby anulować tę wiadomość.
+vm-toenternumber: Naciśnij jeden, aby wprowadzić numer.
+vm-toforward: Naciśnij osiem, aby przekazać wiadomość innemu użytkownikowi.
+vm-tohearenv: Naciśnij trzy, aby odsłuchać szczegóły wiadomości.
+vm-tomakecall: Naciśnij cztery, aby wykonać połączenie wychodzące.
+vm-tooshort: Twoja wiadomość jest zbyt krótka.
+vm-toreply: Naciśnij jeden, aby wysłać odpowiedź.
+vm-torerecord: Naciśnij trzy, aby nagrać wiadomość ponownie.
+vm-undelete: Naciśnij siedem, aby przywrócić tę wiadomość.
+vm-undeleted: Wiadomość przywrócona.
+vm-unknown-caller: od nieznanego rozmówcy
+vm-whichbox: Aby zostawić wiadomość, wprowadź numer skrzynki pocztowej.
+vm-youhave: masz
+vmnotify-followed-by-pound: i naciśnij krzyżyk.
+vmnotify-goodbye: Do widzenia.
+vmnotify-greeting: Witamy. Masz nową wiadomość głosową.
+vmnotify-instructions: Aby odsłuchać wiadomość, naciśnij jeden.
+vmnotify-instructions2: Aby odsłuchać wiadomość, naciśnij jeden. Aby zakończyć, naciśnij krzyżyk.
+vmnotify-recname: Wprowadź numer skrzynki pocztowej.
+vmnotify-thankyou: Dziękujemy.
+vmnotify-too-late: Czas na odsłuchanie wiadomości upłynął.
+vqplus-accept: Naciśnij jeden, aby zaakceptować.
+vqplus-callback: Oddzwonimy do Ciebie wkrótce.
+vqplus-confirmed: Twoja prośba o oddzwonienie została potwierdzona.
+vqplus-enter-name: Po sygnale podaj swoje imię i nazwisko, a następnie naciśnij krzyżyk.
+vqplus-enter-number: Wprowadź numer telefonu, pod który mamy oddzwonić, i naciśnij krzyżyk.
+with: z
+you-entered: Wprowadzono.
+you-will-be-transfered-menu: Połączenie zostanie przekazane do menu.
+your: Twój.
+sng_mcu: Jednostka konferencyjna.
+sng_mcu_chime: Sygnał konferencji.
+tt-somethingwrong: Coś poszło zupełnie nie tak.
